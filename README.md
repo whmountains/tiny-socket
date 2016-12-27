@@ -6,7 +6,7 @@ A tiny wrapper for Node's sockets, written in ES7.
 
 The most convenient way of using this module is with ES7's async/await.
 
-```JavaScript
+```javascript
 
 	(async function(){
 
@@ -40,7 +40,7 @@ The most convenient way of using this module is with ES7's async/await.
 
 But if you don't feel comfortable using this syntax, you can use regular promises
 
-```JavaScript
+```javascript
 
 	let TinySocket = require('tiny-socket');
 
